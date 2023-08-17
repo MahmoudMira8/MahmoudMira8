@@ -8,9 +8,9 @@
 
 ## About Me
 
-I'm a Front End Developer who is passionate about creating technology to elevate people. Some technologies I enjoy working with include Javascript and ReactJS.
+🙋 I am a super front-end developer, which allows me to provide the highest-quality services in the shortest period. React developer. building responsive websites. creative web design by Ui / UX. Also, I have experience in NodeJS development.
 
-- 🌱 I’m currently learning **Web Development**.
+- 🌱 I’m currently Intern in **ITI**.
 
 ## Contact Me
 
@@ -20,13 +20,21 @@ You can reach me via email at **mahmoudfreelancer8@gmail.com**. I'm always open 
 
 Here are some of the projects I've worked on:
 
-- Project 1: [Project Name](https://example.com)
-  - Description: Briefly describe the project and its features.
-  - Technologies used: List the technologies used in the project.
+- Project 1: [Omnifood](https://omnifood-healthyfood.netlify.app/)
+  - Description: Omnifood is a responsive website project that showcases an AI-powered food subscription service. It's designed to help users find healthy meal options tailored to their tastes and nutritional needs.
+
+.
+  - Technologies used: HTML | CSS | JS | UI/UX.
   
-- Project 2: [Project Name](https://example.com)
-  - Description: Briefly describe the project and its features.
-  - Technologies used: List the technologies used in the project.
+- Project 2: [Special Portfolio Design
+]([https://example.com](https://personal-website88.netlify.app/))
+  - Description: A responsive website template for showcasing a creative agency's portfolio.
+  - Technologies used: HTML5 | CSS3 | JavaScript | Font Awesome Icons | Responsive Design Principles.
+ 
+- Project 3: [Portfolio Website for Mahmoud Mira
+]([https://example.com](https://personal-website88.netlify.app/))
+  - Description: A personal portfolio website built using React.js to showcase your skills, projects, and contact information.
+  - Technologies used: HTML5 | CSS3 | ReactJS | Responsive Design Principles.
 
 ## Skills
 
