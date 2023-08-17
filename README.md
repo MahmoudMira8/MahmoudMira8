@@ -32,7 +32,7 @@ Here are some of the projects I've worked on:
   - Technologies used: HTML5 | CSS3 | JavaScript | Font Awesome Icons | Responsive Design Principles.
  
 - Project 3: [Portfolio Website for Mahmoud Mira
-](https://example.com](https://personal-website88.netlify.app/))
+](https://mahmoudportfolio18.netlify.app/)
   - Description: A personal portfolio website built using React.js to showcase your skills, projects, and contact information.
   - Technologies used: HTML5 | CSS3 | ReactJS | Responsive Design Principles.
 
