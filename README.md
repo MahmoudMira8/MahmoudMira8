@@ -40,6 +40,8 @@ Here are some of the projects I've worked on:
 
 These are some of the skills I've developed throughout my career:
 
+- Basic of Computer Science
+- Linux OS
 - HTML5
 - CSS3
 - Javascript
@@ -54,6 +56,7 @@ These are some of the skills I've developed throughout my career:
 - Converting your designs into a fully responsive website.
 - Developing High converting landing pages
 - git | Github
+- Shopify
 
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always looking for new opportunities to learn and grow!
