@@ -42,10 +42,19 @@ These are some of the skills I've developed throughout my career:
 
 - HTML5
 - CSS3
-- JavaScript
+- Javascript
+- Bootstrap, Tailwind
+- PSD/Figma to HTML
+- Responsive design
+- SVG Animation
 - ReactJS
-- Bootstrap
-- Git
+- NodeJS
+- NextJS
+- Mongo Database
+- Converting your designs into a fully responsive website.
+- Developing High converting landing pages
+- git | Github
+
 
 Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always looking for new opportunities to learn and grow!
 
