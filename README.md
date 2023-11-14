@@ -3,7 +3,7 @@
   <a href="https://www.linkedin.com/in/mahmoudmira18/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%Stack%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22">
 </p>
 
 ## About Me
