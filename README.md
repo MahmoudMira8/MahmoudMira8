@@ -8,19 +8,28 @@
 
 ## About Me
 
-🙋 I am a super front-end developer, which allows me to provide the highest-quality services in the shortest period. React developer. building responsive websites. creative web design by Ui / UX. Also, I have experience in NodeJS development.
+🙋 I am a proficient full-stack developer specializing in React for the front-end and Node.js for the back-end. My expertise in React enables me to create highly responsive websites with a focus on creative UI/UX design. Additionally, I possess valuable experience in Node.js development, allowing me to deliver top-quality services efficiently.
 
-- 🌱 I’m currently Intern in **ITI**.
+- 🌱 I’m graduated from **ITI**.
 
 ## Contact Me
 
-You can reach me via email at **mahmoudfreelancer8@gmail.com**. I'm always open to interesting projects and collaborations.
+You can reach me via email at **mahmoud.mira2030@gmail.com**. I'm always open to interesting projects and collaborations.
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-- Project 1: [Omnifood](https://omnifood-healthyfood.netlify.app/)
+- Project 1: [Examination website](https://www.falla.fun/)
+  - Description: Our website project, built using Angular and Node.js, revolutionizes the examination process for both teachers and students. Teachers can register using their email, log in, and create interactive exams. Upon exam creation, a unique code is generated, allowing students to enter and participate in the live examination session.
+
+This interactive examination format ensures that students can only progress to the next question when the teacher advances to the next one. The teacher maintains control over the pacing of the exam, providing a seamless and synchronized experience for all participants.
+
+After each question, the system displays the top 10 performers, keeping everyone informed about their standing. Upon completion of the exam, a fun and engaging display reveals the top three students, adding an element of excitement to the learning process.
+
+Our platform not only simplifies the examination process but also enhances the overall experience for both teachers and students, fostering an interactive and dynamic educational environment..
+
+- Project 2: [Omnifood](https://omnifood-healthyfood.netlify.app/)
   - Description: Omnifood is a responsive website project that showcases an AI-powered food subscription service. It's designed to help users find healthy meal options tailored to their tastes and nutritional needs.
 
 .
