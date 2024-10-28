@@ -1,51 +1,73 @@
-<h1 align="center">Hi, I'm Mahmoud 👋</h1>
+<h1 align="center">Hi, I'm Mahmoud Mira 👋</h1>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoudmira18/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst%20;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Mathematics%20Instructor;&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&size=22">
 </p>
 
 ## About Me
+🎓 Bachelor of Science graduate from Zagazig University, graduated in the top 10 of class (2016-2020)
 
-🙋 I am Data Analyst with a background in Mathematics Instruction and Front-End Development (JavaScript, React). Seeking to leverage mathematical acumen and software development experience in data analysis.
+💼 Versatile professional combining expertise in:
+- Data Analysis
+- Mathematics Instruction
 
-🎓 Specialized training:
-- Full Stack Development (ITI)
+🌟 Completed specialized training:
 - Data Analysis (NTI)
+- Full Stack Development MEARN Track (ITI)
 from the Egyptian Ministry of Communications
 
-💼 Eager to apply analytical skills and technical expertise to deliver actionable insights and contribute to a forward-thinking organization.
+## 🛠 Skills
 
+### Data Analysis
+- **Data Processing:** Data cleaning, preprocessing, statistical analysis
+- **Visualization:** Power BI, Excel
+- **Python Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Database Management:** SQL Server, MySQL, MongoDB
+- **Core Skills:** Reporting, Storytelling, Critical Thinking
 
-## Contact Me
+### Development & Tools
+- **Frontend:** HTML5, CSS3, JavaScript, ReactJS
+- **Backend:** NodeJS, REST API, Python, C++
+- **DevOps:** Docker, Git/GitHub
+- **Systems:** Linux, Bash Scripting
+- **Computer Science:** OOP, Data Structures, Networking
 
-You can reach me via email at **mahmoud.mira2030@gmail.com**. I'm always open to interesting projects and collaborations.
+## 💼 Professional Experience
 
-## Skills
+### 👨‍🏫 Mathematics Teacher (Aug 2024 - Present)
+- Teaching statistics, algebra, geometry, trigonometry, and calculus
+- Emphasizing practical applications of mathematical concepts
+- Developing problem-solving skills in students
 
-These are some of the skills I've developed throughout my career:
+### 💻 Freelance Web Developer (Sep 2023)
+- Led development of educational gaming platform
+- Collaborated in 5-member team
+- **Tech Stack:** Bootstrap, Angular, Node.js, MongoDB, Express
 
-## Data Analysis
-- Data cleaning and preprocessing
-- Statistical Analysis
-- Data Visualization (Power BI, Excel)
-- Programming Language: 
-  - Python: Pandas, Numpy, Matplotlib, Seaborn
-- Database Management:
-  - SQL Server, MySQL, MongoDB
-- Reporting and Storytelling
-- Critical Thinking and Data Interpretation
+## 🎯 Internships
 
-## Software Skills
-- Frontend: HTML5, CSS3, JavaScript, ReactJS
-- Backend: NodeJS, Rest API, Python, C++
-- DevOps & Tools: Docker, Git/GitHub, Linux, Bash Scripting
-- Computer Science:
-  - OOP (Object-Oriented Programming)
-  - Data Structures
-- Networking
+### 📊 Data Analysis Intern - NTI
+- Conducted detailed data analysis
+- Produced insightful statistical reports
+- Gained freelance project management experience
 
+### 💻 Full Stack Development Intern - ITI
+- Completed 3-month MEARN stack program
+- Hands-on experience with modern web technologies
+- Built full-stack applications
 
-Feel free to reach out if you have any questions or if you'd like to collaborate on a project. I'm always looking for new opportunities to learn and grow!
+## 🌟 Activities & Leadership
+- Member of Social Media Committee at Cairo University Chapter
+- Head of Treasury Committee at B2B Organization
+- Member of PR Committee at B2B Organization
+- Participated in NU Research Office and 2nd Practical AGYA Training
 
+## 📫 Contact Me
+- 📧 Email: mahmoud.mira2030@gmail.com
+- 📱 Mobile: +201205096533
+- 💼 LinkedIn: [Mahmoud Morsy Mira](https://www.linkedin.com/in/mahmoudmira18/)
+- 📍 Location: Cairo, Egypt
